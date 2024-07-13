@@ -23,7 +23,7 @@
 ## Finetune a Model on your Dataset
 - Make sure the you have enough data to train the model
 - You just need to  odify this line in the notebook:-
--  # Combine the columns into a single text field for training
+ Combine the columns into a single text field for training
 df['input_text'] = df.apply(lambda row: f"Query: {row['Message']} Response: {row['Response']}", axis=1)
 according to the columns in your dataset
 - Run the notebook, modify the training arguments, outputs according to your needs
