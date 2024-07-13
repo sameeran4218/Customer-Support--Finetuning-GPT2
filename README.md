@@ -1,4 +1,4 @@
-# Customer Support- Finetuning GPT2 to Custom Dataset
+# Customer Support- Finetuning GPT2 on Custom Dataset
 
 ## Description
 - This repository contains a fine-tuned GPT-2 model designed to automate customer support interactions. 
