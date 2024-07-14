@@ -4,7 +4,7 @@
 - This repository contains a fine-tuned GPT-2 model designed to automate customer support interactions. 
 - The model is capable of generating context-aware responses to common customer queries, enhancing customer engagement and reducing the workload on human support agents.
 
-[click here for the notebook](https://colab.research.google.com/drive/1Jzp78psXmZ7JEGFEO_Rp2S7ocbnb99VU?usp=drive_link)
+[Click here for the Model](https://drive.google.com/drive/folders/1_R2nEUAD0EdMzQVBS5APH0VgIb1jh6J7?usp=drive_link)
 
 ## Run the Model Online
 - Install the required libraries
