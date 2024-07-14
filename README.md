@@ -13,6 +13,11 @@
 
 [Click here for the Model](https://drive.google.com/drive/folders/1_R2nEUAD0EdMzQVBS5APH0VgIb1jh6J7?usp=drive_link)
 
+## File Info
+- Dataset - A cleaned modified version of a Kaggle dataset
+- Notebbok - A Google Colab Notebook
+- Code - Main.py file of the Python Code run in Pycharm
+
 ## Run the Model Online
 - Install the required libraries
 - Copy the code from Customer Support Text Generation Model.ipynb and run it on Google Colab ( recommended as GPU is required)
