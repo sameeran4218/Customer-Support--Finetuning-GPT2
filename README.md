@@ -17,6 +17,7 @@
 - Dataset - A cleaned modified version of a Kaggle dataset
 - Notebook - A Google Colab Notebook
 - Code - Main.py file of the Python Code run in Pycharm
+- Model - finetuned_gpt2 folder contains the model files. Google Drive link is given above
 
 ## Run the Model Online
 - Install the required libraries
