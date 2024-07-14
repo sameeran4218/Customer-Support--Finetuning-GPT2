@@ -15,7 +15,7 @@
 
 ## File Info
 - Dataset - A cleaned modified version of a Kaggle dataset
-- Notebbok - A Google Colab Notebook
+- Notebook - A Google Colab Notebook
 - Code - Main.py file of the Python Code run in Pycharm
 
 ## Run the Model Online
