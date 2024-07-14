@@ -1,5 +1,8 @@
 # Customer Support- Finetuning GPT2 on Custom Dataset
 
+## Example
+- [Example Video](https://drive.google.com/file/d/1bDWOGnj3I2BPYf8zLUjTNb7833lMU42q/view?usp=drive_link)
+  
 ## Description
 - This repository contains a fine-tuned GPT-2 model designed to automate customer support interactions. 
 - The model is capable of generating context-aware responses to common customer queries, enhancing customer engagement and reducing the workload on human support agents.
