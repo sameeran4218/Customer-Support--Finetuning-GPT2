@@ -3,6 +3,8 @@
 ## Example
 ![Screenshot 2024-07-14 141950](https://github.com/user-attachments/assets/e62c3c29-2fe5-40b7-8de2-8147bc8d32a2)
 
+![Screenshot 2024-07-15 103839](https://github.com/user-attachments/assets/4fb79bcf-ea81-4e7f-87e9-aeaac48f6fc8)
+
 ## TechStack/Frameworks
 - Finetuning GPT2
 - Hugging Face Transformers
