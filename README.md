@@ -8,6 +8,7 @@
 ## TechStack/Frameworks
 - Finetuning GPT2
 - Hugging Face Transformers
+- Flask
 
 ## Description
 - This repository contains a fine-tuned GPT-2 model designed to automate customer support interactions. 
@@ -19,23 +20,21 @@
 ## File Info
 - Dataset - A cleaned modified version of a Kaggle dataset
 - Notebook - A Google Colab Notebook
-- Code - Main.py file of the Python Code run in Pycharm
+- Code
+  1. Main.py file of the Python Code.
+  2. app.py file of Flask Web app
+  3. Templates/index.html contains html and javascript code of the webapp
+  4. static/css contains the corresponding html webpage
 - Model - finetuned_gpt2 folder contains the model files. Google Drive link is given above
 
-## Run the Model Online
-- Install the required libraries
+## Run the Model 
 - Copy the code from Customer Support Text Generation Model.ipynb and run it on Google Colab ( recommended as GPU is required)
 - Modify the generate_response() parameter to get the desired answer
-
-## Run the Model Locally 
-- Run the Customer Support Text Generation Model.ipynb on Gooogle Colab( recommended as GPU is required)
-- After running the notebook a finetuned_gpt2 zipped folder will be downloaded to your local device. Unzip the folder
-- Alternatively you can download the Model from the link given above
+- Download the Model from the link given above
 - Place the contents of the finetuned_gpt2 folder in your Python IDE(like Pycharm) in the root directory of your project 
-- Install the neccessary libraries
 - In main.py load the model and tokenizer by specifying the path to the finetuned_gpt2 folder
 - Manipulate the generate_response() according to your needs to get the desired answers.
-- Run the main.py file
+- You can also download a zip file of all the code, extract it and run python app.py then use the model on localhost:5000
 
 ## Finetune a Model on your Dataset
 - Make sure the you have enough data to train the model
